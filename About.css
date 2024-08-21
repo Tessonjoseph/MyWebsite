@@ -22,7 +22,10 @@ color: #31280D;}
 	}
 .Paragraph {font-weight: bold;
 font-size: 140%;
-color: #31280D}
+color: #31280D;
+text-align: justify;
+margin-left: 15%;
+margin-right: 15%}
 
 .navbar {
 	background-color: #6B450D;
