@@ -22,9 +22,10 @@ li {
 }
 li a {
 	color: antiquewhite;
-	font-size: 20px;
+	font-size: 2em;
 	font-weight: normal;
-	margin-left: 25px;
+	margin-left: 2.5em;
+	margin-top: 20%;
 }
 button{
 	color: antiquewhite;
