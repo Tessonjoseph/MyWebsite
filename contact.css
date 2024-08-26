@@ -75,12 +75,12 @@ color: #31280D;}
 .Paragraph {font-weight: bold;
 font-size: 140%;
 color: #31280D;
+margin-left: 7%;
+margin-right: 7%;
 }
 .writing{
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	text-align: center;
-	margin-left: 7%;
-	margin-right: 7%;
 }
 .heading{font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"}
 .lastlines{text-align:center;
