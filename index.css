@@ -38,7 +38,7 @@ margin-right: 7%}
 .navdiv {
 	display: flex;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: space-evenly;
 	
 }
 li {
@@ -51,7 +51,9 @@ li a {
 	font-size: 2em;
 	font-weight: normal;
 	margin-left: 2em;
+	margin-right: 2em;
 	margin-top: 20%;
+
 	
 }
 
