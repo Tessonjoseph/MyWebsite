@@ -13,6 +13,9 @@ color: #0d1131;}
 	font-weight: bold;
 	text-decoration: none;
 	}
+	.ridiculus {width: 70%;
+	display: block;
+	margin: auto;}
 .nextpagebutton {text-align: center;
 	font-style: normal;
 	color: #0d0e31;
@@ -104,6 +107,3 @@ text-decoration:inherit}
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	text-align: center;
 }
-.ridiculus {width: 70%;
-	display: block;
-	margin: auto;}
